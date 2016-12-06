@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rabin's Quill</title>
+    <description>I am a Programmer.</description>
+    <link>http://rabingaire.me/</link>
+    <atom:link href="http://rabingaire.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 16 Nov 2016 00:55:32 +0545</pubDate>
+    <lastBuildDate>Wed, 16 Nov 2016 00:55:32 +0545</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Why learn JavaScript</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/learnjs.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Why learn JavaScript? Not to be confused with Java, JavaScript is used to build interactive websites. Over the years JavaScript has become essential to get into the web development. Furthermore, JavaScript has extended itself into the mobile app development, desktop app development, and game development hence making it the most useful skill to learn in the field of computer science.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-javascript&quot;&gt;&lt;strong&gt;Why JavaScript?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;easy-to-learn&quot;&gt;&lt;strong&gt;Easy to learn:&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Yes, JavaScript is one of the easiest languages to learn. Unlike other language you don’t have to set up anything to run your JavaScript code. JavaScript comes pre-installed with modern web browsers. So how do I run JavaScript code? It’s easy (Assuming you know how to write HTML) alongside some HTML throw a bit of JavaScript and run it on a web browser great you have got your first JavaScript running.&lt;/p&gt;
+
+&lt;h4 id=&quot;to-make-websites-more-user-friendly&quot;&gt;&lt;strong&gt;To make websites more user friendly:&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;I guess you have seen some cool animations on many websites. Yes, that was the work of JavaScript. Isn’t it cool? With the use of JS libraries like &lt;a href=&quot;http://bouncejs.com/&quot;&gt;Bounce.js&lt;/a&gt;, &lt;a href=&quot;http://velocityjs.org/&quot;&gt;Velocity.js&lt;/a&gt;, &lt;a href=&quot;http://lab.ejci.net/favico.js/&quot;&gt;favico.js&lt;/a&gt; and &lt;a href=&quot;http://anijs.github.io/&quot;&gt;AniJS&lt;/a&gt; you could create some cool websites.&lt;/p&gt;
+
+&lt;p&gt;Animation is a small thing on the sea of things JavaScript could do these days. After animation, &lt;a href=&quot;https://www.tutorialspoint.com/ajax/what_is_ajax.htm&quot;&gt;AJAX&lt;/a&gt; pops in my head. &lt;a href=&quot;https://www.tutorialspoint.com/ajax/what_is_ajax.htm&quot;&gt;AJAX&lt;/a&gt; stands for Asynchronous Javascript And XML. It is used to level up the interaction level of the user. Have you ever noticed how does a twitter loads new tweets or gmail loads new email? This is done with the help of &lt;a href=&quot;https://www.tutorialspoint.com/ajax/what_is_ajax.htm&quot;&gt;AJAX&lt;/a&gt;. &lt;a href=&quot;https://www.tutorialspoint.com/ajax/what_is_ajax.htm&quot;&gt;AJAX&lt;/a&gt; enables to do some crazy stuff like loading a new data without refreshing a page.&lt;/p&gt;
+
+&lt;p&gt;It’s been a couple of years since JavaScript has started to explode. Once a slow front end scripting language now can handle the backend stuff with its framework called &lt;a href=&quot;https://nodejs.org/en/&quot;&gt;Node.js&lt;/a&gt; which allows you to create servers with JavaScript. Frameworks like &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt;, &lt;a href=&quot;https://angularjs.org/&quot;&gt;Angular.js&lt;/a&gt;, &lt;a href=&quot;https://facebook.github.io/react/&quot;&gt;React.js&lt;/a&gt; and &lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone.js&lt;/a&gt; has made a lot easier to solve problems giving wings to its developers explore the world of creativity.&lt;/p&gt;
+
+&lt;p&gt;I also should have to mention &lt;a href=&quot;http://www.json.org/&quot;&gt;JSON&lt;/a&gt; which stands for JavaScript Object Notation. It is used as a popular method to transfer data due to the small file size and the ability to read and write data quickly. Most of the &lt;a href=&quot;http://readwrite.com/2013/09/19/api-defined/&quot;&gt;API&lt;/a&gt; build today returns and accepts data on this file format.&lt;/p&gt;
+
+&lt;h4 id=&quot;lots-of-job&quot;&gt;&lt;strong&gt;Lots of Job:&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Not to mention the use of JavaScript is huge. It has a large number of active community. (At the time of writing this article) JavaScript is a mostly talked language on a largest question and answer site for professional and enthusiast programmers &lt;a href=&quot;http://stackoverflow.com/&quot;&gt;StackOverflow&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As the use of JavaScript is growing day by day vacancy searching for a good JavaScript developer is also increasing on a daily basis. JavaScript has become a thing in a software development world. It is said that that salary of a JavaScript developer ranges from a minimum of 40K to more than 120K yearly in the US.&lt;/p&gt;
+
+&lt;h4 id=&quot;can-build-a-mobile-app-with-javascript&quot;&gt;&lt;strong&gt;Can build a mobile app with JavaScript:&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Ever thought of making an IOS/Android app? Scared of learning some hard programming language like Java, C# and Swift/Objective C. Don’t worry, you can build an app with the help of JavaScript. I bet you have used one. Have you ever been amazed by looking at the mobile app by Facebook and Instagram? They look like any other app right? But the amazing thing about them is that were built using JavaScript.&lt;/p&gt;
+
+&lt;p&gt;Yes, these app use &lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;React Native&lt;/a&gt; which is a JavaScript framework. Along with &lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;React Native&lt;/a&gt; there are other JS framework like &lt;a href=&quot;http://ionicframework.com/&quot;&gt;ionic&lt;/a&gt;, &lt;a href=&quot;https://www.nativescript.org/&quot;&gt;NativeScript&lt;/a&gt;, &lt;a href=&quot;http://goratchet.com/&quot;&gt;Ratchet&lt;/a&gt; and many more existing till date.&lt;/p&gt;
+
+&lt;h3 id=&quot;at-last&quot;&gt;&lt;strong&gt;At Last:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;JavaScript has become huge over the year. This is becoming more and more popular these days. Most of the web developers these days are supposed to learn JavaScript, but there is a vast difference between just learning and being an expert on something most of the developers only know the basic of JavaScript. I suggest them to get deeper on advance topic of JavaScript and also tell them to explore the world of JS frameworks.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Nov 2016 20:26:21 +0545</pubDate>
+        <link>http://rabingaire.me/why-learn-javascript/</link>
+        <guid isPermaLink="true">http://rabingaire.me/why-learn-javascript/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Rails over PHP</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/railsvsphp.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been programming for more than 2 years, But among those years I have spent most of my time either learning or doing PHP. I used to love PHP. It is a great programming language, But not good enough to get me to stick around. Then what language do I use for most of the time? Well, it’s Rails. What is Rails aka Ruby on Rails? Rails is a web framework built on top of Ruby programming language. At the time of writing this post I have done Rails for more than 3 months. And comparing those 3 months of experience with Rails and  2 years of experience with PHP, I am happy for last 3 months aka I am happy with Rails. To show you guys why I am happy with Rails over PHP let me describe each language with pros and cons and I will let you guys decide why.&lt;/p&gt;
+
+&lt;h3 id=&quot;php&quot;&gt;&lt;strong&gt;PHP:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;PHP is most famous for its simplicity and shallow learning curve. You don’t have to configure anything to get started with PHP, all you need is an HTML file change the extension to .php write some PHP code inside &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;?PHP //code here  ?&amp;gt;&lt;/code&gt; Run it on any PHP web server then you are good to go. Deploying PHP is also so easy you just have to FTP the files to the web server and your website is live on the internet. But too much simplicity is bad because you could find people easily who can write PHP, But it’s harder to find people who writes maintainable, scalable and efficient code. It’s because of simplicity PHP is often considered as having sloppy and unmaintainable code.&lt;/p&gt;
+
+&lt;p&gt;PHP has a unique plus point as it is made for the web. Yes PHP is entirely designed for web. Many of the inbuilt functions are there to solve real world web problems. For example, function like &lt;code class=&quot;highlighter-rouge&quot;&gt;md5()&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;mysql_connect()&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;header()&lt;/code&gt; these functions make the life of PHP developer a lot easier.&lt;/p&gt;
+
+&lt;p&gt;The Bad point about PHP is that it was just a scripting language build to solve web problems and did not use OOP patterns on its earlier age. With PHP, OOP started to become feasible with the release of PHP 4, But really came around with the release of PHP 5. So There have not been a long period since it started using OOP concepts. It’s good that an old and widely popular language started using OOP, but with this comes complexity as most of the newbie developers don’t know how to write OOP PHP creating much more sloppy and unmaintainable code. But there’s another point to remember PHP does have certain coding patterns/rules to be followed by developers being formulated by the PHP community as the years go by, which makes PHP harder and confusing as any other High level programming language. Even though PHP is now trying hard to implement OOP features, it’s developers don’t really care to implement the true power of OOP PHP.&lt;/p&gt;
+
+&lt;p&gt;Still with some design flaws and being old PHP is still the most widely used programming language to build web applications. More than 80% of the web today is powered by PHP. But (Truly my opinion) I guess it will not be the case for long enough. As the beautiful tip of the iceberg has hidden its dark face in the water. But out there who loves PHP and want to be a great developer. I suggest (If you think me worthy) to use its framework rather than sticking with raw PHP. PHP has some great framework that helps it’s developer to use the power of OOP PHP with maintainable and scalable code still keeping the spirit of its simplicity.&lt;/p&gt;
+
+&lt;h3 id=&quot;ruby-on-rails-aka-rails&quot;&gt;&lt;strong&gt;Ruby On Rails aka Rails:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;It has not been a long period of time since I have started using Rails over PHP, But it has been long enough to tell me that I love Rails. I have found that Rails enables to create beautiful web applications faster, that are maintainable and scalable. It’s based on the Ruby programming language which is truly OOP makes the use of OOP concept and power. Other than that because of its large community and stable nature, it’s a lot easier to find immediate support.&lt;/p&gt;
+
+&lt;p&gt;Other than being really powerful web framework Rails also has a distinctive feature having English like code structure which makes easier to understand its code. Even a non-programmer reading the rails code could easily tell what the following line of code is doing. This is because of Ruby as Ruby was build for making the life of programmer easy. Yet it has another special plus point as it enables its developer focus on problem automating all the repetitive task putting its spirit of Convention over Configuration.&lt;/p&gt;
+
+&lt;p&gt;Rails also has a large number of plugin called gems. These gems helps developer to avoid re-inventing the wheel, thus making the development process faster and hectic free. It also has generators that generate most of the repetitive code on a single command again making the life of the developer easier.&lt;/p&gt;
+
+&lt;p&gt;I should not talk about this as I am comparing a language and a framework here but it’s a legitimate point. Rails follows an MVC pattern separating an application’s database and its UI increasing its security and the most important feature maintained code. PHP also has a framework that uses the MVC pattern, but the point here is that every developer using Rails has to understand the principle of MVC and has to use it, But developer using PHP doesn’t have any such rule that gives Rails a point over PHP.  Other than that Rails follows the test development process, making its developer to test each line of code. Testing is easy on rails as it has many testing tools while PHP is still struggling to create an ecosystem of testing. Rspec is one of the example of testing tool used in rails.&lt;/p&gt;
+
+&lt;p&gt;Rails also has some bad points as it has a steep learning curve. Yes, Rails is not an easy framework to learn. Developer learning Rails have to learn some advanced topic from the first week. Not only it is criticized for having a steep learning curve it is often criticized for being slow. Rails is slower than PHP as it is built upon the foundation of the Ruby language. Ruby takes time to be executed by a computer because of its architecture of becoming a programmer friendly.&lt;/p&gt;
+
+&lt;p&gt;Following some patterns on rails are pain in an ass for new developers as they are struggling to learn Rails and also may have to learn CoffeeScript instead of Javascript, SCSS etc. Deploying Rails app is also harder then of PHP. But once you configure the host then you just have to run a single command before your application is live on the internet.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Then at last what do I think. PHP is easy to learn and has many resources to get started with. It also has cool new frameworks like Laravel. Rails is really hard to learn but all those pain are worth once you feel comfortable with this amazing framework. Due to its cool features like supporting caching out of the box and having a background process makes Rails the best web tool over PHP. I can tell once you get your hands on this amazing framework you are never looking back. Rails, Rocks  (Truly My Opinion)&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 12 Nov 2016 20:26:21 +0545</pubDate>
+        <link>http://rabingaire.me/rails-over-php/</link>
+        <guid isPermaLink="true">http://rabingaire.me/rails-over-php/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>What are Coding Bootcamps?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/learntocode.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What are coding bootcamp? Many of you are wondering what exactly is it. Is it a camp where you wear boots and start coding. Haha If it was then it would be a really fun task to do. But sadly It’s not related anywhere near boots. Well then what exactly is it ??&lt;/p&gt;
+
+&lt;p&gt;Coding Bootcamp is a technical training program where students learn to code as per market need. Bootcamps offers unique curriculum that are based on building stuff not just learning the syntax ( This is what most of the nepalese student learn only syntax ). These bootcamps are so efficient that students are able to solve real world problem using their coding skills. Most of these bootcamps are of 8-12 weeks long designed to learn with efficiency and speed. These bootcamps are so efficient that they are acting as a bridge between college and a job market.&lt;/p&gt;
+
+&lt;p&gt;After coding bootcamps it is seen that students get job easily as a junior software engineer in small as well as big companies. In US the trend of coding bootcamp is big and they also cost between $4000-$12000 (uff that’s a lot of money) . Due to high success rate people are willing to pay those numbers.&lt;/p&gt;
+
+&lt;p&gt;In nepal many young generation want to learn how to code and build stuff. As the hunger of coding rises they join IT colleges and study IT/computer related course so that they could learn how to code. But the reality is that they never really learn how to build stuff they only learn how to write syntax and based upon what they learn I could tell they are not anywhere near advance and intermediate topics of coding. This creates a gap between job market and colleges as most of the offices want those people who know what they are doing. But must of the courses and colleges fails to teach students as per job market requirement.&lt;/p&gt;
+
+&lt;p&gt;At last the question is there any bootcamp running here on nepal? Yes there is. There is a company called &lt;a href=&quot;http://techrise.me&quot;&gt;TECHRISE&lt;/a&gt; that teaches ruby on rails which is a web framework in less than 8 weeks. If you are interested about bootcamp then visit &lt;a href=&quot;http://techrise.me&quot;&gt;www.techrise.me&lt;/a&gt; One and only bootcamp running on nepal. And by the way for those who only want to learn how to code but don’t want to go through 4 years IT/computer related course then bootcamps are the way to go.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Oct 2016 20:26:21 +0545</pubDate>
+        <link>http://rabingaire.me/what-are-coding-bootcamps/</link>
+        <guid isPermaLink="true">http://rabingaire.me/what-are-coding-bootcamps/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>भोगाई</title>
+        <description>&lt;p&gt;बिश्वमा लेखन मात्र एउटा यस्तो माध्यम हो जसबाट कुनैपनि मानिसले आफ्नो बिचार राम्रोसंग अथवा खुल्ला रुपमा व्यक्त गर्न सक्छ। मानब जीवन एउटा उपन्यास हो नलेखिएको ब्यग्लै उपन्यास यो उपन्यास को एउटा पात्रले भोगेको एउटा कथा लाई व्यक्त गर्नु एउटा चुनौती हो र म यो चुनौती को सामाधान गर्छु लेखन बाट।&lt;/p&gt;
+
+&lt;p&gt;शिवहरि एउटा यस्तो किसान हो, जसले जीवन भोगेको छ, अनि जीवन ले उसलाई। आजको उसको शरीर जीवन भोगाईसंगै बुढो भैसकेको छ। लाग्छ उसको शरीरको प्रत्येक अंगमा जीवन भोगाईका शब्दहरु कोरिएका छन्। शरीर बुढो छ । ऊ र ऊ जस्तै अरुको पनि तर जीवन र जीवन भोगाई के उस्तै होला ? उसको भोगाई जीवनभर दुखको भोगाई, परिश्रम र इमानको भोगाई, आज महल बस्नेसंग दाज्न के सकिन्छ र ?&lt;/p&gt;
+
+&lt;p&gt;अह सकिदैन किनभने त्यो सम्पन्न पात्र भित्र शिवहरिको जस्तै अनुहारमा काला धब्बा, दुख र दमनका रेखाहरु भेटिदैनन। जीवन को उत्तराधमा शिवहरिको दर्शन, शिक्षा, वा पूझी जे भनेपनि उसको लागि मिहेनत र परिश्रम हो। अनि उसले बुझेको पनि त्यहि नै हो। ऊ  परिश्रम गर्छ र परिश्रममै दर्शन भेट्छ। के उसो भए उसको जीवन भोगाई सानो हो त। अवश्य होइन। साच्ची शिवहरिले समय कसरि भोग्यो त।&lt;/p&gt;
+
+&lt;p&gt;ऊ सधै भन्ने गर्छ, “किसानले आफ्नो पेट त भर्छ नै उसले अरुको पेट पनि भरेको हुन्छ” मलाई उसको यो कुराले मन छोएको छ। कहाँबाट सिकेको छ हॅ शिवहरिले यस्ता कुरा। के उसले दर्शनको बारेमा जानेको छ या ऊ आफैँ दर्शन जिइरहेको छ। उसको जीवन सामान्य छ। ऊ मिहेनत गर्छ र त्यसैमा खुशी भेट्छ। हो यो पैसे दुनिया उसको खिल्ली उडाउछ। ऊ मुसुक्क हास्छ। समाज उसलाई पैसाले दिन  सक्ने चिजको बर्णन गर्न ब्यस्त हुन्छ। उसमा घमण्ड छैन सुनिदिन्छ। समाज यसमा पनि विवशताको Tag झुन्डाइदिन्छ  बिचरा दुनिया के बुझोस् शिवहरिको जीवन दर्शन। शिवहरि नबोली दर्शन बताइरहेछ समाज उसको खिल्ली उढाइरहेछ।&lt;/p&gt;
+
+&lt;p&gt;पैसे दुनियाको दृष्टिले हेर्दा शिवहरि गरिब छ। उसंग केहि छैन तर बिचारको दृष्टिले ऊ सम्पन्न छ। ऊ बिचारलाई व्यवहारमा बदल्न पनि सक्दछ।  ऊ त्यहि बिचारलाई मिहिनेत र परिश्रममा बदल्छ र माटो लाई दिन्छ। आखिर माटो पनि त दर्शन हो ऊ विचार लाई दर्शनमा बदल्छ। दर्शनले उसलाई जिउन सिकाउछ। ऊ जिउछ आफ्नो लागि नभई दुनियाको लागि।&lt;/p&gt;
+
+&lt;p&gt;शिवहरि एउटा खुल्ला पुस्तक हो, जसलाई पढ्नुमा एउटा तरङ्ग पैदा हुन्छ। अनि पुस्तक प्रति प्रेम पनि। पुस्तक कहिल्यै नराम्रो हुदैन। पुस्तक भनेको ज्ञान हो। के ज्ञान कतै नराम्रो हुन्छ र ? तर थाहा छैन शिवहरि किन नराम्रो हुन पुग्यो त ?&lt;/p&gt;
+
+&lt;p&gt;आज हाट बजार लाग्ने दिन रे। शिवहरि आफुले उब्जाएको खाध्यान्न बेच्न जादै छ। ऊ एकदमै खुशी छ। उसमा मिहिनेत गरेको फल पाउने आशा छ। कस्तो विरोधाभाष फलको आश रे संमाज उसको अगाडि गीता तेर्साउछ। ऊ फेरी पनि हास्छ। समाज उसलाई गालि गर्छ। तर उसमा भने फलको आश रहिरहन्छ। के ऊ गीताको कुरा सुन्छ। होइन उसले आफ्नो परिवार पाल्नु छ, अनि जीवन भोग्नु छ।&lt;/p&gt;
+
+&lt;p&gt;समय संग खिचिदै जीवन जिइरहेको छ ऊ। उसको जीवन दुख नै ढुख ले भरिएको छ। ऊ गाउँमा फैलिएको माहामारीको चपेटामा परेको छ, अनि उसको परिवार पनि। तर खै त्यो पैसै दुनिया जो गीता तेरसाईरहेथ्यो, खै मानवता ऊ भोकै छ। उसको दर्शन माथि खिल्ली उडाउने हरु आज हेर उसले परिश्रम नगर्दा भोकै मर्नु पर्ने दिन आएको छ। कता हराए माक्क, लेलिन अनि माओका सिदान्त हरु। अनि त्यो शिवहरि को दर्शन। शिवहरि तैले आज पाठ सिकिस तैले परिश्रम को फल भोगिस अब बुझिस् होला गीताले  फलको आश नगर भन्नु को अभिप्राय। बल्ल खा तै त होस् जसले फलको आश गरेको खुच्चिङ शिवहरि खुच्चिङ।&lt;/p&gt;
+
+&lt;p&gt;शिवहरिको मृत्यु भयो रे, त्यो पनि माहामारीले नभई भोकमरीले। जसले जीवनभरि अन्न उब्जनी गर्य्यो ऊ नै भोकमरीले मर्नु पर्यो रे । कस्तो न्याय तेरो। आज एउटा दर्शन बिलिन भयो, परिश्रम बिलिन भयो, इमान्दारिताका बिलिन भयो। शिवहरि बिलिन भए। धर्म बिलिन भयो। मात्र  पैसेहरुको उदय भयो। नीचताको उदय भयो, कपटताको उदय भयो। आखिरीमा यो युगको फल मिल्यो। शिवहरि लाई उसको फल मिल्यो र उसको भोगाईको अन्त्य।&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 10 Oct 2016 18:26:21 +0545</pubDate>
+        <link>http://rabingaire.me/story-two/</link>
+        <guid isPermaLink="true">http://rabingaire.me/story-two/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>केटि साथि</title>
+        <description>&lt;p&gt;भोगाई आउनु अगी धरै कथा हरु लेखिएका थिए तर सुरुवात यो कथा बाट भएको थियो। जीवन को पहिलो कथा त्यति राम्रो नहुन पनि सक्छ तर यो नै कथा लेखन को श्री गढ़ेश थियो।&lt;/p&gt;
+
+&lt;p&gt;“हेलो रमेश मलाई भेट्न आउ है”
+फोनको दोस्रो भागमा स्मृति बोल्दै थिइ।
+“मलाई तिमि संग केहि भन्नु छ” स्मृति बोल्दै गई
+“सुन्धारा धरहरा मुनि म तिमि लाई पर्खी रहने छु ठिक ११:०० बजे बेलैमा आउ है” यति भनि स्मृतिले फोन राखिदिई।
+“मलाई तिमि संग एउटा कुरा भन्नु छ”
+स्मृतिले फोन राखेको पाच मिनेट बितिसक्दा पनि मेरो दिमागमा यही एउटा वाक्य गुन्जिरहेको थियो। के होला त्यो कुरा? के भन्न खोजेकी होलि स्मृति ले? किन आज अचानक? मेरो दिमाग मा अनेक कुरा हरु खलिरहेका थिए।
+घडी हेरे ११ बज्न ३ घण्टा बाकि थियो। आफूलाई ऐनामा हेरे। मुसुक्क हासे र आफैँ संग बोल्न थाले रमेश आज तेरो लागि तिन घण्टा तिन बर्ष जति लाग्ने छ। हुन पनि हो स्मृतिको फोन आए देखि मेरो मन ठेगानमा थिएन र गुन्जिरहेको थियो उही वाक्य “मलाई भेट्न आउ है रमेश तिमि संग एउटा कुरा भन्नु छ”
+स्मृति मेरो कक्षा कि केटि थिइ एकदमै राम्री र चलाख पनि। ऊ मेरी एकदमै मिल्ने साथि थिइ र थियो बिमल पनि। हो स्मृति बिमल भन्दा अलि पछी मेरो जिन्दगीमा आएकी थिइ तर खै किन हो म उसलाई बिमल भन्दा पनि बढी बिश्वास गर्दथिए र गर्दथी ऊ पनि।
+आज अचानक किन बोलाइ स्मृतिले म मनमनै सोच्दै गए कतै ऊ मलाई प्रेम त गर्दिन। हुन पनि सक्छ म बिरामी पर्दा ऊ मलाई भेट्न घरमै त आएको थिइ। छि म पनि कस्तो साथीको नाताले आएकी पनि त हुन सक्छ अनि उसको साथ बिमल पनि त आएको थियो।
+सोच्दै गए
+अनि अस्ति त हो अप्रिल फुलको दिन मेरो हात भाचियो भेट्न आउ न त भनि फोन गर्दा पनि त ऊ कस्तरी रोएकी थिइ र मलाई भेट्न आएकी थिइ। अनि हिजो को कुरा त हो म र बिमलले होमवोर्क नगरी सरले कक्षा बाट निकाली दिदा उसले पनि नगरेको बाहाना पारि हामि संगै आएकी थिइ।&lt;/p&gt;
+
+&lt;p&gt;एकपटक घडी हेरे दुइ घण्टा बाकि थियो छि आज घडी बिग्रेको छ कि क्या हो। बैठक कोठामा गइ भित्ते घडी हेरे हो रहेछ अझै दुइ घण्टा बाकि नै थियो। एक पटक फेरी मुस्कुराए सोच्न थाले प्रेमको खेल। हो म स्मृति लाई प्रेम गर्थे तर मा उसलाई भन्न सकेको थिएन र साएद भन्ने पनि थिएन होला। मलाई उ पहिलो झलक मै राम्रो लागेकी थिई। उसको ओठ, कपाल र आँखा एकदमै राम्रो लाग्थ्यो मलाई र अझै राम्रो लाग्थ्यो उसको रिसाउने बानी। पढाईमा त म निकम्मानै थिए तर उसको संगतले गर्दा म अलि पढन थालेको थिए। उ हरेक जसो मेरो निकम्मापन को कारण नै रिसाउथी र मलाई पद्नुपर्छ भन्ने पनि गर्थी।
+कतै उ काठमाण्डौ छोडेर जान लागेकी त होइन। मेरो अगाडी अन्धकार छायो म निरास भए। हो अस्ति त उसले आफ्नो बुबाको बुटवल सरुवा भएको र परिवार बुटवल जान सक्ने कुरा पनि त गरेकी थिइ। जादिन होला म सोच्दै गए। उसको बुवाले घर किन्ने कुरा पनि त गरेको थियो। सायद उसले आफ्नो नया घर देखाउनत बोलाएकी हुन पनि त सक्छ, आखिर ऊ आफ्नो सबै कुरा त भन्छे म संग।
+फेरी घडी हेरे एक घण्टा बाकी थियो। तयार त म उसको फोन आएदेखि नै भइसकेको थिए(दुइ घण्टा अगाडि) निस्के घर बाट। मम्मीले खाना खाएर जा भन्दै हुनु हुन्थ्यो। तर भोक छैन भनि खाना पनि नखाई हिडे स्मृतिलाई भेट्न। किन भोक लाग्थ्यो र आज जबकी मन डर र खुशीले भरिएको थियो।
+बीस मिनेट छिटो पुगेछु स्मृति आएकै थिइन। फेरी सोच्न थाले। कतै ऊ मलाई नै थाहा नभएको उसको boyfriend संग भेट गराउन त बोलाइन के थाहा स्मृति राम्री छे केहि हुन पनि त सक्छ नि।
+फेरी सोचे।
+छैन होला उ मलाई केहि कुरा पनि त लुकाउदीन कोहि थियो भने ऊ त मलाई भनि हाल्थी नि। आफ्नो मनलाई अभ्यस्त पारे। उसलाई purpose गरु कि। गर्दिन भो। फेरी ऊ रिसाई भने। नाइँ मा उसलाई गुमाउन चाहान्न।
+“रमेश”
+कसले बोलायो ह! यता उति हेरे। स्मृति पो रहिछ। एक्लै देखे उसलाई boyfriend को कुराले त फेल पो खायो।
+“कति छिटो आएछौ सधै ढिलो गर्थ्यौ त” ऊ बोल्दै थिई।
+“आज रेकर्ड बनाउछु भनेर नि”&lt;/p&gt;
+
+&lt;p&gt;दुवै हास्यौ।
+केहि कुरा भन्नु छ क्याफेमा जाउँन त। दुबैजना क्याफे तिर लाग्यौ।
+“भन आज किन एकाक्सी बोलाएको”
+ऊ एकदमै खुशी देखिन्थि तर मेरो मनको ढुकढुकी बढिरहेको थियो र आशा गरेको थिए ऊ केहि नराम्रो कुरा नगरोस्। ऊ बोल्दै गइ।
+तर बिडम्बना जति ऊ बोल्दै गइ त्यति मेरो अगाडि अन्धकार छाउदै गयो म अन्धकारको भुमरीमा पस्दै गए, जमिन भासिएको जस्तो भान भयो केहि सुन्नै नसक्ने स्त्तिथिमा पुगे। जसोतसो उसको अगाडि आफूलाई सम्हाले।
+ऊ बोल्दै थिइ।
+I am in love with bimal
+म बिमललाई मन पराउछु
+ love you bimal love you.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Oct 2016 18:26:21 +0545</pubDate>
+        <link>http://rabingaire.me/story-one/</link>
+        <guid isPermaLink="true">http://rabingaire.me/story-one/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Life Towards Rails and TECHRISE</title>
+        <description>&lt;p&gt;I want to start right before joining TECHRISE. Haha long time ago Uh Just Kidding. I am a 19 years old BSC.CS.IT student at ACHS college.  When I was on first semester I was not quite able to get the concept of programming languages. Then after first semester I got a bit of interest on it and after then I have never looked back. I Love programming :) . Back then I learned PHP and start loving web development and since then I always dreamed of becoming a good web developer. After learning the basic of PHP and making two projects out of it I thought of taking my PHP skills at next level. But back then I had a disease of jumping from one language to another. It was like one day I was learning python and on  other I was learning java. Doing so I wasted one year of my life. If I haven’t jumped here and there I might would have been better on PHP. But the universe wanted something else it was misguiding me to guide  through the  right path I guess so.&lt;/p&gt;
+
+&lt;p&gt;Then one evening I was just surfing Facebook. I saw an ad posted on one of the Developer group. I guess so cause I don’t really remember how I saw that ad or where. I think that was magical because  joining TECHRISE has become a magical experience to me. I fill up the form and they send me an email to complete the Pre task necessary for the enrollment on the course. I was excited I completed It. Oh ! Wait there is much more The Path to TECHRISE was not easy tough. When I was on pre task my laptop hard disk got damaged. I was not able to repair my laptop due to some financial problems ha ha all person in earth has got those I guess. I got it repaired after few weeks. The Due date was already gone I was not able to complete my pre task. Then I checked my email later that night. There was a email from TECHRISE telling me the due date has been increased for a week. I can’t explain how much happy I was. If the due date was not increased I wouldn’t have been with TECHRISE in this magical journey. I think you can tell why I call it magical.&lt;/p&gt;
+
+&lt;p&gt;I too have a story about email.  Above I have told that I got a email from TECHRISE. Well the email I got was accidentally deleted by me. I guess I would not have known that I am selected and have to do pre task if Nasuko ( Co Founder of TECHRISE really very nice person) haven’t send me  message telling me that I am selected and a email was send. Thank you Nasuko. The email was send 10 days ago and was on thrash. Really check your thrash there may be something really important email.&lt;/p&gt;
+
+&lt;p&gt;Now here I am on TECHRISE I am learning really fast. It’s been one of the most productive month of my whole life I was able to make two websites in really short period of time. I love TECHRISE. I am getting professional skills that is the bridge between school and job market. I have met really good people (The whole TECHRISE team mentors/co founders/students). I have been on two really good sessions organized by TECHRISE. I learned many things out of those sessions. And That’s all about the life towards rails and TECHRISE.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Sep 2016 18:26:21 +0545</pubDate>
+        <link>http://rabingaire.me/life-towards-rails-and-techrise/</link>
+        <guid isPermaLink="true">http://rabingaire.me/life-towards-rails-and-techrise/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

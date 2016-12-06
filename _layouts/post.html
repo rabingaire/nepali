@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div id="wrap">
+
+    {% include navbar.html %}
+
+
+    <div class="container-fluid main-data">
+      <div class="col-md-3 text-center">
+        {% include twitter_follow_button.html %}
+        {% include twitter_embedded.html %}
+      </div>
+      <div class="col-md-6 post-content">
+        <div class="post-info">
+          <h1 class="text-center">{{ page.title }}</h1>
+          <h5 class="post-time text-center">{{ page.date | date: "%B %-d, %Y" }}</h5>
+        </div>
+        {{ content }}
+
+        {% include social.html %}
+      </div>
+      <div class="col-md-3 text-center">
+        {% include hit-counter.html %}
+        {% include livefeed.html %}
+        {% include feedjit.html %}
+      </div>
+    </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
