@@ -2,12 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rabin's Quill Nepali</title>
-    <description>I am a Programmer.</description>
-    <link>http://rabingaire.me/</link>
-    <atom:link href="http://rabingaire.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Feb 2017 22:13:22 +0545</pubDate>
-    <lastBuildDate>Fri, 03 Feb 2017 22:13:22 +0545</lastBuildDate>
+    <description>Hello, I am Rabin Gaire from Nepal, Land of Mountains and a birthplace of lord buddha. I love programming.</description>
+    <link>http://rabingaire.com.np//nepali/</link>
+    <atom:link href="http://rabingaire.com.np//nepali/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 12 Nov 2017 22:04:26 +0545</pubDate>
+    <lastBuildDate>Sun, 12 Nov 2017 22:04:26 +0545</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>म को हु?</title>
+        <description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;म को हु
+
+केहो मेरो परिचय थाह छैन मलाइ
+
+
+के म लाल सलाम भन्ने हरुको सेना हु
+
+वा पुजिबादिहरु को कार्यकर्ता
+
+वा हु कम्युनिष्ट हरु को निति मा बिश्वास गर्ने पात्र
+
+मलाइ थाह छैन हु कि म राजाबादि को दलाल
+
+
+हैन हैन म हु पुस्तकालय जलाउने बिधार्थि
+
+वा हु क्याम्पस मा राजनिति गर्ने पात्र
+
+वा हु बाटो मा टायर जलाउने प्रतिनिधि
+
+मलाइ थाहा छैन हु कि भस्टाचार गर्ने राजनिज्ञ
+
+
+म हुन पनि त सक्छु रामायणको राम
+
+वा हुन पनि सक्छु माहाभारत लेक्ने वेदव्यास
+
+वा हुन पनि सक्छु गीताको वाचन गर्ने कृष्ण
+
+मलाई थाहा छैन हुकी सत्यको लागि आफ्नै दाजुभाइ मर्ने आर्जुन
+
+
+मलाई के थाहा कतै मा भित्र लुकेको छ कि हिटलार को आत्मा
+
+वा छ कि म मा पनि मदर टेरेसा को जस्तो मन
+
+वा म मा पनि युध्द को चाहाना गर्ने नेपोलियन छ कि
+
+मलाई थाहा छैन हुन पनि सक्छु युध्द मन नपराउने डुंइनाड
+
+
+मलाई के थाहा छ र म मा पनि छ कि प्लेटोको वुद्धि
+
+वा म मा पनि कतै दौडिन्छ कि गान्धीको नीति
+
+के थाहा म पनि हकी क्रिस्ट जस्तो इश्वरको पुत्र
+
+मलाई थाहा छैन हुन पनि सक्छु म २१औं सताब्दी को बुद्ध
+
+
+कसलाई के थाहा म हुकी देशको रक्षाको लागि ज्यान दिने बलभद्र
+
+वा हुकी कलाकारिता बाट शान्ति फैलाउने अरनिको
+
+वा म नै हु कि एक सच्चा पतिबर्ता नारि सिता
+
+मलाई थाहा छैन हुन पनि सक्छु सगरमाथा छिचोल्ने तेन्जिङ नोर्ब सेर्पा
+
+
+अन्त्यमा
+
+सोच्छु म को हु भनि
+
+भबिस्यमा छ उत्तर भबिस्य लाईनै सुम्पिदिन्छु म फेरी।
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 21 May 2017 16:36:21 +0545</pubDate>
+        <link>http://rabingaire.com.np//nepali/poem-three/</link>
+        <guid isPermaLink="true">http://rabingaire.com.np//nepali/poem-three/</guid>
+        
+        
+      </item>
     
       <item>
         <title>मरभूमिको माझमा</title>
@@ -36,8 +112,8 @@
 &lt;p&gt;फुलिरहेछ गुलाब एउटा मरभूमिको माझमा ।&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Dec 2016 22:02:21 +0545</pubDate>
-        <link>http://rabingaire.me/poem-two/</link>
-        <guid isPermaLink="true">http://rabingaire.me/poem-two/</guid>
+        <link>http://rabingaire.com.np//nepali/poem-two/</link>
+        <guid isPermaLink="true">http://rabingaire.com.np//nepali/poem-two/</guid>
         
         
       </item>
@@ -106,8 +182,8 @@
 
 </description>
         <pubDate>Tue, 06 Dec 2016 22:02:21 +0545</pubDate>
-        <link>http://rabingaire.me/poem-one/</link>
-        <guid isPermaLink="true">http://rabingaire.me/poem-one/</guid>
+        <link>http://rabingaire.com.np//nepali/poem-one/</link>
+        <guid isPermaLink="true">http://rabingaire.com.np//nepali/poem-one/</guid>
         
         
       </item>
@@ -134,8 +210,8 @@
 
 </description>
         <pubDate>Mon, 10 Oct 2016 18:26:21 +0545</pubDate>
-        <link>http://rabingaire.me/story-two/</link>
-        <guid isPermaLink="true">http://rabingaire.me/story-two/</guid>
+        <link>http://rabingaire.com.np//nepali/story-two/</link>
+        <guid isPermaLink="true">http://rabingaire.com.np//nepali/story-two/</guid>
         
         
       </item>
@@ -178,8 +254,8 @@ I am in love with bimal
  love you bimal love you.&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Oct 2016 18:26:21 +0545</pubDate>
-        <link>http://rabingaire.me/story-one/</link>
-        <guid isPermaLink="true">http://rabingaire.me/story-one/</guid>
+        <link>http://rabingaire.com.np//nepali/story-one/</link>
+        <guid isPermaLink="true">http://rabingaire.com.np//nepali/story-one/</guid>
         
         
       </item>
