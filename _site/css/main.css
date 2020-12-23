@@ -1,137 +1,68 @@
-.navbar-default
-.navbar-brand,
-.navbar-default
-.navbar-brand:hover {
-  font-size: 24px;
-  color: #333333; }
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:hover { font-size: 24px; color: #333333; }
 
-.navbar-default {
-  background-color: #ffffff; }
+.navbar-default { background-color: #ffffff; }
 
-.navbar-brand {
-  font-family: 'Pacifico', cursive; }
+.navbar-brand { font-family: "Pacifico", cursive; }
 
-.navbar-default
-.navbar-nav li a {
-  color: #333333; }
+.navbar-default .navbar-nav li a { color: #333333; }
 
-.navbar-default
-.navbar-toggle
-.icon-bar {
-  background-color: #333333; }
+.navbar-default .navbar-toggle .icon-bar { background-color: #333333; }
 
-.home {
-  border: 1px solid #e7e7e7;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
-  border-radius: 5px; }
+.home { border: 1px solid #e7e7e7; -webkit-border-radius: 5px; -moz-border-radius: 5px; -ms-border-radius: 5px; border-radius: 5px; }
 
-.page-heading {
-  font-size: 2em;
-  background-color: #1da1f2;
-  color: #FFFFFF; }
+.page-heading { font-size: 2em; background-color: #1da1f2; color: #ffffff; }
 
-.post-list {
-  font-size: 18px; }
+.post-list { font-size: 18px; }
 
-li {
-  list-style: none; }
+li { list-style: none; }
 
-.post-list {
-  padding: 0 5% 0 5%; }
+.post-list { padding: 0 5% 0 5%; }
 
-.post-meta,
-.post-title,
-.post-preview {
-  padding: 2% 0 0 0; }
+.post-meta, .post-title, .post-preview { padding: 2% 0 0 0; }
 
-.preview {
-  font-size: 14px; }
+.preview { font-size: 14px; }
 
-.post-content {
-  font-size: 20px;
-  line-height: 34px;
-  font-family: 'Diaria Light Pro',sans-serif; }
+.post-content { font-size: 20px; line-height: 34px; font-family: "Diaria Light Pro", sans-serif; }
 
-.post-info {
-  padding: 0 0 5% 0; }
+.post-info { padding: 0 0 5% 0; }
 
-.post-time {
-  color: #828282; }
+.post-time { color: #828282; }
 
-.my-pic
-img {
-  margin: 2% 0 0 0;
-  height: 200px;
-  width: 200px;
-  border: 1px solid #000000; }
+.my-pic img { margin: 2% 0 0 0; height: 200px; width: 200px; border: 1px solid #000000; }
 
-.my-pic {
-  margin: 0 0 5% 0; }
+.my-pic { margin: 0 0 5% 0; }
 
-.description {
-  font-size: 20px;
-  line-height: 34px; }
+.description { font-size: 20px; line-height: 34px; }
 
-.social-media-links {
-  margin: 50px 0 0 0; }
-  .social-media-links a {
-    color: #1da1f2;
-    margin: 0 0 0 5px;
-    text-decoration: none; }
+.social-media-links { margin: 50px 0 0 0; }
 
-.footer {
-  background-color: #657786;
-  height: 150px;
-  width: auto;
-  color: #ffffff;
-  margin-top: 5%; }
+.social-media-links a { color: #1da1f2; margin: 0 0 0 5px; text-decoration: none; }
 
-.footer
-h4:first-child {
-  padding: 5% 0 0 0; }
+.footer { background-color: #657786; height: 150px; width: auto; color: #ffffff; margin-top: 5%; }
 
-i {
-  color: #eb2e39; }
+.footer h4:first-child { padding: 5% 0 0 0; }
 
-.footer a,
-.footer a:hover {
-  color: #ffffff; }
+i { color: #eb2e39; }
+
+.footer a, .footer a:hover { color: #ffffff; }
 
 /* Styles go here */
 /* Sticky footer styles
 -------------------------------------------------- */
-html,
-body {
-  height: 100%;
-  /* The html and body elements cannot have any padding or margin. */ }
+html, body { height: 100%; /* The html and body elements cannot have any padding or margin. */ }
 
 /* Wrapper for page content to push down footer */
-#wrap {
-  min-height: 100%;
-  height: auto;
-  /* Negative indent footer by its height */
-  margin: 0 auto -120px;
-  /* Pad bottom by footer height */
-  padding: 0 0 120px; }
+#wrap { min-height: 100%; height: auto; /* Negative indent footer by its height */ margin: 0 auto -120px; /* Pad bottom by footer height */ padding: 0 0 120px; }
 
 /* Set the fixed height of the footer here */
-#footer {
-  height: 120px;
-  background-color: #f5f5f5; }
+#footer { height: 120px; background-color: #f5f5f5; }
 
-html {
-  text-align: justify;
-  color: #000000; }
+html { text-align: justify; color: #000000; }
 
-.main-data {
-  padding: 5% 0 0 0; }
+.main-data { padding: 5% 0 0 0; }
 
-img {
-  margin: 0;
-  max-width: 100%; }
+img { margin: 0; max-width: 100%; }
 
-@media (max-width: 767px) {
-  .main-data {
-    padding: 15% 0 0 0; } }
+@media (max-width: 767px) { .main-data { padding: 15% 0 0 0; } }
+
+/*# sourceMappingURL=main.css.map */

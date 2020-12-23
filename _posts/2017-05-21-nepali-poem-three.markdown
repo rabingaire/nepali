@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "म को हु?"
-date:   2017-05-21 16:36:21 +0545
+title: "म को हु?"
+date: 2017-05-21 16:36:21 +0545
 permalink: /poem-three/
 ---
 

@@ -1,13 +1,10 @@
 //variables
 
-
 //variables end
 
-.navbar-default
-.navbar-brand,
-.navbar-default
-.navbar-brand:hover {
-  font-size:24px;
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover {
+  font-size: 24px;
   color: #333333;
 }
 
@@ -15,20 +12,17 @@
   background-color: #ffffff;
 }
 .navbar-brand {
-  font-family: 'Pacifico', cursive;
+  font-family: "Pacifico", cursive;
 }
 
-.navbar-default
-.navbar-nav{
+.navbar-default .navbar-nav {
   li {
-    a{
+    a {
       color: #333333;
     }
   }
 }
 
-.navbar-default
-.navbar-toggle
-.icon-bar {
+.navbar-default .navbar-toggle .icon-bar {
   background-color: #333333;
 }

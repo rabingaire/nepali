@@ -1,8 +1,8 @@
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
-     -moz-border-radius: $radius;
-      -ms-border-radius: $radius;
-          border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+  border-radius: $radius;
 }
 
 .home {
@@ -13,7 +13,7 @@
 .page-heading {
   font-size: 2em;
   background-color: #1da1f2;
-  color:#FFFFFF;
+  color: #ffffff;
 }
 
 .post-list {
@@ -30,9 +30,8 @@ li {
 
 .post-meta,
 .post-title,
-.post-preview
-{
-  padding:2% 0 0 0;
+.post-preview {
+  padding: 2% 0 0 0;
 }
 
 .preview {
