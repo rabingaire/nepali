@@ -1,2 +1,7 @@
 # nepali
-This is the Nepali blog of mine.
+
+##### ⚠️ This website is no longer maintained ⚠️
+
+*NOTE: This is deprecated theme that I built long time ago*
+
+
